@@ -12,15 +12,26 @@ El módulo de Mercado Pago para Magento ofrece las siguientes funcionalidades:
 |                                	| Checkout Básico 	| Checkout Personalizado 	|
 |--------------------------------	|-----------------	|------------------------	|
 | Pagos con tarjeta              	| ✔               	| ✔                      	|
-| Pagos con otros medios         	|                 	| ✔                      	|
+| Pagos con otros medios         	| ✔                	| ✔                      	|
 | Pagos con dos tarjetas         	| ✔               	| ✔                      	|
-| Tarjetas guardadas             	|                 	| ✔                      	|
+| Tarjetas guardadas             	| ✔                	| ✔                      	|
 | Suscripciones                  	| ✔               	|                        	|
 | Mercado Envíos                  	| ✔               	|                        	|
 | Devolución de Pagos            	| ✔               	| ✔                      	|
 | CRON (Actualización de Pedido) 	|                 	| ✔                      	|
 | Pagina de éxito personalizable 	|                 	| ✔                      	|
 | Calculadora de Cuotas          	| ✔               	| ✔                      	|
+| Modo Gateway                    	|                	| ✔                      	|
+
+
+<a name="Versiones"></a>
+## Versiones:
+
+|                            | Detalle                                                                                        |
+|----------------------------|------------------------------------------------------------------------------------------------
+| Versiones estables         | 1.6.x - 1.9.x (Magento 1x) - 2.x (Magento 2x)                          
+| Versiones sin soporte de Mercado Pago | Versiones anteriores a 1.6.x 
+
 
 
 <a name="Requisitos"></a>
