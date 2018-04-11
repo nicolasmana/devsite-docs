@@ -13,9 +13,9 @@ The module of Mercado Pago to Magento is integrated with the features and paymen
 |                                     	| Basic Checkout 	| Custom Checkout 	|
 |-------------------------------------	|----------------	|-----------------	|
 | Payment with Credit Card            	| ✔              	| ✔               	|
-| Paid with other payment methods     	|                	| ✔               	|
+| Paid with other payment methods     	| ✔              	| ✔               	|
 | Split payments (Two cards)          	| ✔              	| ✔               	|
-| One Click Pay (Customers and Cards) 	|                	| ✔               	|
+| One Click Pay (Customers and Cards) 	| ✔              	| ✔               	|
 | Subscriptions                       	| ✔              	|                 	|
 | MercadoEnvios                       	| ✔              	|                 	|
 | Refunds of Payments                 	| ✔              	| ✔               	|
