@@ -23,6 +23,15 @@ The module of Mercado Pago to Magento is integrated with the features and paymen
 | Customizable success page           	|                	| ✔               	|
 | Installments calculator             	| ✔              	| ✔               	|
 
+<a name="Versions"></a>
+## Versions:
+
+|                            | Detail
+|----------------------------|------------------------------------------------------------------------------------------------|
+| Stable Version             | 1.6.x - 1.9.x (Magento 1x) - 2.x (Magento 2x)   
+| Versions without Mercado Pago support | Previous to 1.6.x 
+
+
 <a name="Requirements"></a>
 ## Requirements:
 
