@@ -12,9 +12,9 @@ The module of Mercado Pago to Prestahop is integrated with the features and paym
 |                                     	| Basic Checkout 	| Custom Checkout 	|
 |-------------------------------------	|----------------	|-----------------	|
 | Payment with Credit Card            	| ✔              	| ✔               	|
-| Paid with other payment methods     	|                	| ✔               	|
+| Paid with other payment methods     	| ✔              	| ✔               	|
 | Split payments (Two cards)          	| ✔              	| ✔               	|
-| One Click Pay (Customers and Cards) 	|                	| ✔               	|
+| One Click Pay (Customers and Cards) 	| ✔              	| ✔               	|
 | Subscriptions                       	| ✔              	|                 	|
 | MercadoEnvios                       	| ✔              	|                 	|
 | Refunds of Payments                 	| ✔              	| ✔               	|
@@ -22,6 +22,15 @@ The module of Mercado Pago to Prestahop is integrated with the features and paym
 | Customizable success page           	|                	| ✔               	|
 | Installments calculator             	| ✔              	| ✔               	|
 | Installments shipment calculator    	| ✔              	| ✔               	|
+
+<a name="Versions"></a>
+## Versions:
+
+|                            | Detail
+|----------------------------|------------------------------------------------------------------------------------------------|
+| Stable Version             | 1.6 - 1.7    
+| Versions without Mercado Pago support | Previous to 1.6
+
 
 <a name="Requirements"></a>
 ## Requirements: ##
