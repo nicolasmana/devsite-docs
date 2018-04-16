@@ -13,9 +13,9 @@ El módulo de Mercado Pago para Prestashop esta integrado con las siguientes fun
 |                                	| Checkout Básico 	| Checkout Personalizado 	|
 |--------------------------------	|-----------------	|------------------------	|
 | Pagos con tarjeta              	| ✔               	| ✔                      	|
-| Pagos con otros medios         	|                 	| ✔                      	|
+| Pagos con otros medios         	| ✔                	| ✔                      	|
 | Pagos con dos tarjetas         	| ✔               	| ✔                      	|
-| Tarjetas guardadas             	|                 	| ✔                      	|
+| Tarjetas guardadas             	| ✔                	| ✔                      	|
 | Suscripciones                  	| ✔               	|                        	|
 | Mercado Envíos                  	| ✔               	|                        	|
 | Devolución de Pagos            	| ✔               	| ✔                      	|
@@ -23,6 +23,14 @@ El módulo de Mercado Pago para Prestashop esta integrado con las siguientes fun
 | Pagina de éxito personalizable 	|                 	| ✔                      	|
 | Calculadora de Cuotas          	| ✔               	| ✔                      	|
 | Calculadora de Mercado Envíos     | ✔               	| ✔                      	|
+
+<a name="Versiones"></a>
+## Versiones:
+
+|                            | Detalle                                                                                        |
+|----------------------------|------------------------------------------------------------------------------------------------
+| Versiones estables         | 1.6 - 1.7                          
+| Versiones sin soporte de Mercado Pago | Versiones anteriores a 1.6 
 
 
 <a name="Requirements"></a>
