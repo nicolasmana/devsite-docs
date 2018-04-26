@@ -16,10 +16,10 @@ El módulo de Mercado Pago para WooCommerce está integrado con las siguientes c
 |-----------------------------------------------------------	|-----------------	|-----------------------	|
 | Pago con Tarjeta de Crédito                               	| ✔               	| ✔                     	|
 | Interfaces Preconstruídas de Mercado Pago                 	| ✔               	|                       	|
-| Reembolsos/Cancelaciones de Pagos                         	|                 	|                       	|
+| Reembolsos/Cancelaciones de Pagos                         	| ✔                | ✔                       	|
 | Pagos Divididos (Dos Tarjetas)                            	| ✔               	| ✔                     	|
 |  Pago con Un Clic (Clientes y Tarjetas)                   	|                 	| ✔                     	|
-| Mercado Envíos                                             	| ✔               	|                       	|
+| Mercado Envíos                                             | ✔               	|                       	|
 | Otros Medios de Pago                                      	|                 	| ✔                     	|
 | Verificaciones de credenciales y estado de la plataforma. 	| ✔               	| ✔                     	|
 | Página de éxito personalizable.                           	|                 	| ✔                     	|
@@ -35,7 +35,7 @@ El módulo de Mercado Pago para WooCommerce está integrado con las siguientes c
 |                             	| Detalle                                                                  	|
 |-----------------------------	|--------------------------------------------------------------------------	|
 | Versiones soportadas        	| WordPress 3.1.x - 4.7.x, WooCommerce 2.6.x - 3.1.x                       	|
-| Ambiente                    	| )                                       	|
+| Ambiente                    	| LAMP (Linux, Apache, MySQL, y PHP)                                       	|
 | Sistema                     	| Linux x86, x86-64                                                        	|
 | Servidor Web                	| Apache 2.x                                                               	|
 | Version PHP                 	| 5.6 o superior con soporte a curl                                        	|
